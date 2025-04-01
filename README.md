@@ -15,16 +15,20 @@ Mesma proposta do Jogo da forca 1, contudo com mais recursos e design
         <h2>Imagens do projetos</h2>
           <p>As imagens que compõem o projeto</p>
   <figure>
-<img src="" alt=" "></a>
-<figcaption> </figcaption>
+<img src="https://github.com/sbr-rodrigues/Jogo-da-forca-2/blob/main/Jogo%20da%20forca%202%20(1).png" alt="Escolha da categoria"></a>
+<figcaption>Alternativa de escolher qual categoria</figcaption>
    </figure>
  <figure>
-   <img src=" " alt=" "></a>
-    <figcaption> </figcaption>
+   <img src="https://github.com/sbr-rodrigues/Jogo-da-forca-2/blob/main/Jogo%20da%20forca%202%20(2).png" alt="Armazena as letras"></a>
+    <figcaption>Armazena as letras tanto as erradas como as certas </figcaption>
       </figure>
        <figure>
-         <img src=" " alt=" "></a>
- <figcaption> </figcaption>
+         <img src="https://github.com/sbr-rodrigues/Jogo-da-forca-2/blob/main/Jogo%20da%20forca%202%20(3).png" alt="Controle de letras repetidas"></a>
+ <figcaption>Não contabiliza letras repetidas</figcaption>
+    </figure>
+              <figure>
+         <img src="https://github.com/sbr-rodrigues/Jogo-da-forca-2/blob/main/Jogo%20da%20forca%202%20(4).png" alt="A figura do enforcado"></a>
+ <figcaption>A figura do enforcado completo no final</figcaption>
     </figure>
     </body>
     </html>
